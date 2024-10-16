@@ -1,29 +1,27 @@
-## Hi Guys, Welcome to my GitHub 👋
+# Marco Willy - FullStack Developer
 
-<div align="center">
-  <a href="https://github.com/marcowilly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcowilly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcowilly&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  <br>
-Some repositories are private, so they do not participate in language statistics. Most (Java)
-  <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marco-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Marco-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Marco-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Marco-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Marco-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Marco-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:marcowillyazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcowilly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## 👋 Hello, I'm Marco Willy!
+
+I'm a passionate **FullStack Developer** from Brazil with over **6 years of experience** in building innovative software solutions. I have expertise in **Java, Kotlin, Flutter, Spring Boot**, and other modern technologies. I enjoy working on complex projects that deliver real-world impact, and I'm always looking to learn new technologies and patterns to stay at the forefront of development.
+
+---
+
+### 🚀 **What I'm working on:**
+
+#### [FortuneHub](https://github.com/marcowilly/FortuneHub) *(private repository)*
+A personal finance management platform built with **Spring Boot**, **Flutter**, and **MySQL**, leveraging **microservices architecture**. The platform helps users manage personal and business finances.
+
+### 🛠 **Tech Stack:**
+
+- **Backend:** Java, Spring Boot, Kotlin, Microservices, Rest APIs
+- **Frontend:** Flutter, Dart, JavaScript
+- **Database:** MySQL, SQL, NoSQL
+- **DevOps:** Docker, Kubernetes, CI/CD Pipelines, GitHub Actions
+- **Cloud:** AWS, Azure
+- **Tools & Platforms:** IntelliJ IDEA, Postman, GitHub, Jira
+
+---
+
+### 🔗 **Get in touch:**
+
+- [LinkedIn](https://linkedin.com/in/marcowilly)
