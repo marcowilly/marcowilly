@@ -6,11 +6,6 @@ I'm a passionate **FullStack Developer** from Brazil with over **6 years of expe
 
 ---
 
-### 🚀 **What I'm working on:**
-
-#### [FortuneHub](https://github.com/fortunehub-app) *(private repository)*
-A personal finance management platform built with **Spring Boot**, **Flutter**, and **MySQL**, leveraging **microservices architecture**. The platform helps users manage personal and business finances.
-
 ### 🛠 **Tech Stack:**
 
 - **Backend:** Java, Spring Boot, Kotlin, Microservices, Rest APIs
