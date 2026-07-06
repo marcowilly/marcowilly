@@ -9,7 +9,7 @@ I'm a **Software Developer Analyst III** focused on building resilient core arch
 ### 🚀 What I'm Up To
 - 🏢 Currently working in the Credit sector, focusing on core financial solutions and high-performance backend systems.
 - 🎓 Postgraduate student in **Distributed Software Architecture**, constantly exploring scalable patterns.
-- 🔭 Actively developing **VOXIS IDE** (AI-powered environment with a Rust & WebSocket backend) and **LinkedList** (an offline-first productivity app).
+- 🔭 Actively developing **Reflexor** (AI-powered environment with a Rust & WebSocket backend) and **LinkedList** (an offline-first productivity app).
 - 🤖 Deeply engaged with Applied AI: running local LLMs (Ollama, LM Studio), developing AI-integrated tools, and utilizing advanced workflows (Cursor, Roo Code).
 - ⚙️ Architecting and deploying solutions across diverse cloud environments, from **AWS** to **Oracle Cloud (OCI)**.
 
