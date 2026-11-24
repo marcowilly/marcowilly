@@ -23,7 +23,6 @@ I also build [LinkedList](https://linkedlist.com.br), an offline-first app for c
 
 - Senior Backend Engineer at Inter
 - Postgraduate studies in Distributed Software Architecture
-- Open to opportunities
 
 ## Tech
 
