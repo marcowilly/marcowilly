@@ -1,42 +1,36 @@
-# 👨‍💻 Marco Willy
+# Marco Willy
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcowilly)](https://linkedin.com/in/marcowilly)
+Senior Backend Engineer at Inter, based in Belo Horizonte. I build distributed and event-driven systems in Java and Rust, and I created [Reflexor](https://reflexor.com.br), an offline-first AI coding assistant with 50k+ downloads on Open VSX and a native CLI.
 
-## 👋 Hello, I'm Marco!
+## What I do
 
-I'm a **Software Developer Analyst III** focused on building resilient core architectures, distributed systems, and integrating Artificial Intelligence. With a strong, multidisciplinary background, I navigate easily between robust backend ecosystems, cloud infrastructure, and modern frontends.
+- Design and ship backend services with Java, Spring Boot, Micronaut, and Rust
+- Build event-driven architectures with Kafka
+- Run workloads on AWS
+- Apply AI to developer tools, including local and offline workflows
 
-### 🚀 What I'm Up To
-- 🏢 Currently working in the Credit sector, focusing on core financial solutions and high-performance backend systems.
-- 🎓 Postgraduate student in **Distributed Software Architecture**, constantly exploring scalable patterns.
-- 🔭 Actively developing **Reflexor** (AI-powered environment with a Rust & WebSocket backend) and **LinkedList** (an offline-first productivity app).
-- 🤖 Deeply engaged with Applied AI: running local LLMs (Ollama, LM Studio), developing AI-integrated tools, and utilizing advanced workflows (Cursor, Roo Code).
-- ⚙️ Architecting and deploying solutions across diverse cloud environments, from **AWS** to **Oracle Cloud (OCI)**.
+## Reflexor
 
----
+Reflexor is a local-first, offline-first AI development environment: a VS Code and Cursor extension plus a native CLI. It is built around a Rust and WebSocket backend, and it is designed to keep model execution and project context on the developer's machine.
 
-### 🛠️ Core Tech Stack
+- Website: [reflexor.com.br](https://reflexor.com.br)
+- Extension: [Open VSX](https://open-vsx.org/extension/reflexor-app/reflexor) and [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=reflexor-app.reflexor)
+- CLI installers: [Reflexor-app/cli-releases](https://github.com/Reflexor-app/cli-releases)
 
-**Backend & Microservices:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-000000?style=for-the-badge&logo=micronaut&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I also build [LinkedList](https://linkedlist.com.br), an offline-first app for collaborative lists, notes, and tasks.
 
-**Frontend & Mobile:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## Currently
 
-**Cloud, DevOps & Integration:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+- Senior Backend Engineer at Inter
+- Postgraduate studies in Distributed Software Architecture
+- Open to opportunities
 
-**Artificial Intelligence:**
-![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=Ollama&logoColor=black)
-![Applied AI](https://img.shields.io/badge/Applied_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+## Tech
+
+Java · Rust · Kafka · Spring Boot · Micronaut · AWS · AI
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/marcowilly/)
+- [reflexor.com.br](https://reflexor.com.br)
+- [github.com/Reflexor-app](https://github.com/Reflexor-app)
